@@ -1,6 +1,6 @@
 # Learn Claude Code -- 真の Agent のための Harness Engineering
 
-[English](./README.md) | [中文](./README-zh.md) | [日本語](./README-ja.md)
+[English](./README.md) | [中文](./README-zh.md) | [日本語](./README-ja.md) | [Deutsch](./README-de.md)
 
 ## モデルこそが Agent である
 
